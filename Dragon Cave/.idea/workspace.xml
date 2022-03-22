@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f6fc389-c8cc-4a1e-9c02-52b71de72252" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Number Guesser/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Guesser/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Guesser/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Guesser/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Guesser/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Guesser/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Guesser/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,16 +77,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
