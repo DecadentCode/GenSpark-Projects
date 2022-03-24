@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
 //        declarations
         Scanner input = new Scanner(System.in);
+        int choice;
 
 //        output introduction
         System.out.println("You are in a land full of dragons. In front of you,\n" +
@@ -13,7 +14,12 @@ public class Main {
                 "Which cave will you go into? (1 or 2)");
 
 //        input player choice
-        int choice = input.nextInt();
+        try{
+            choice = input.nextInt();
+        }catch (Exception error){
+            System.out.println("Input error: "+error);
+            choice = 3;
+        }
 
 //        output results of choice
         System.out.println("You approach the cave...\n" +
