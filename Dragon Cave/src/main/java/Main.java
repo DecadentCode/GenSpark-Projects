@@ -20,18 +20,7 @@ public class Main {
             System.out.println("Input error: "+error);
             choice = 3;
         }
-
-//        output results of choice
-        System.out.println("You approach the cave...\n" +
-                "It is dark and spooky...\n" +
-                "A large dragon jumps out in front of you! He opens his jaws and...");
-        if (choice == 1){
-            System.out.println("Gobbles you down in one bite!");
-        }else if(choice == 2){
-            System.out.println("Welcomes you to his home and some of his treasure!");
-        }else{
-            System.out.println("Gives you a stern talking to for not following\n" +
-                    "the directions correctly, then he eats you!");
-        }
+        DragonCave game = new DragonCave();
+        game.dragonCave(choice);
     }
 }

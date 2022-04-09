@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f6fc389-c8cc-4a1e-9c02-52b71de72252" name="Changes" comment="" />
+    <list default="true" id="7f6fc389-c8cc-4a1e-9c02-52b71de72252" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/DragonCave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DragonCaveTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Guesser/src/main/java/NumberGuesser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hangman/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hangman/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hangman/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hangman/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hangman/hangman.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hangman/src/Hangman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hangman/src/HangmanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hangman/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +30,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -33,12 +50,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../untitled" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DragonCaveTest">
     <configuration name="Dragon Cave" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Dragon-Cave" />
@@ -46,6 +73,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DragonCaveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Dragon-Cave" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DragonCaveTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DragonCaveTest.dragonCaveSurvive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Dragon-Cave" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DragonCaveTest" />
+      <option name="METHOD_NAME" value="dragonCaveSurvive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Dragon-Cave" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DragonCaveTest" />
+        <item itemvalue="JUnit.DragonCaveTest.dragonCaveSurvive" />
+        <item itemvalue="JUnit.MainTest.main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
